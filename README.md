@@ -13,10 +13,7 @@
 ## Introduction
 
 Welcome to the Parrot Optimizer repository! The Parrot Optimizer (PO) is an innovative optimization algorithm inspired by the behaviors of trained Pyrrhura Molinae parrots. This repository contains the source code for the PO, along with comprehensive documentation to help you understand and utilize this powerful optimization tool.
-<div align="center">
-  <img src="image1.png" width="200" />
-  <img src="image2.png" width="200" />
-  <img src="image3.png" width="200" />
+
 </div>
 
 ## Overview
