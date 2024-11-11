@@ -1,6 +1,5 @@
 # Parrot Optimizer: Algorithm and Applications to Medical Problems
 
-![GitHub](https://img.shields.io/github/license/junbolian/PO)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/junbolian/PO)
 ![GitHub repo size](https://img.shields.io/github/repo-size/junbolian/PO)
 ![GitHub language count](https://img.shields.io/github/languages/count/junbolian/PO)
