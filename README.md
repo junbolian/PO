@@ -1,15 +1,15 @@
 # Parrot Optimizer: Algorithm and Applications to Medical Problems
 
-![GitHub](https://img.shields.io/github/license/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub repo size](https://img.shields.io/github/repo-size/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub language count](https://img.shields.io/github/languages/count/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub last commit](https://img.shields.io/github/last-commit/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub issues](https://img.shields.io/github/issues/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub forks](https://img.shields.io/github/forks/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub stars](https://img.shields.io/github/stars/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub watchers](https://img.shields.io/github/watchers/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
-![GitHub contributors](https://img.shields.io/github/contributors/junbolian/Parrot-optimizer-Algorithm-and-applications-to-medical-problems)
+![GitHub](https://img.shields.io/github/license/junbolian/PO)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/junbolian/PO)
+![GitHub repo size](https://img.shields.io/github/repo-size/junbolian/PO)
+![GitHub language count](https://img.shields.io/github/languages/count/junbolian/PO)
+![GitHub last commit](https://img.shields.io/github/last-commit/junbolian/PO)
+![GitHub issues](https://img.shields.io/github/issues/junbolian/PO)
+![GitHub forks](https://img.shields.io/github/forks/junbolian/PO)
+![GitHub stars](https://img.shields.io/github/stars/junbolian/PO)
+![GitHub watchers](https://img.shields.io/github/watchers/junbolian/PO)
+![GitHub contributors](https://img.shields.io/github/contributors/junbolian/PO)
 
 ## Introduction
 
